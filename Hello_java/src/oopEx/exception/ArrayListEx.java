@@ -12,7 +12,7 @@ public class ArrayListEx {
 
 	ArrayList<Integer>al1=new ArrayList<Integer>();
 	List al2=new ArrayList();
-	Collection al3=new ArrayList();
+	Collection al3 = new ArrayList();
 	
 	al1=(ArrayList)al3;
 	
